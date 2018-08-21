@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/angklung/angklung.unity
+    guid: e19a0fbd6cc1a4c4e8410d6ca0a2bf03
+  - enabled: 1
+    path: Assets/scene/angklung/gamelanangklung.unity
+    guid: ca40f42b97f6d874d9f070754aec86e7
+  - enabled: 1
+    path: Assets/scene/angklung/gameovera.unity
+    guid: 24c1947db33ef5041a7f344e18d8bcbd
+  - enabled: 1
+    path: Assets/scene/angklung/gameovera2.unity
+    guid: de3d2d7011b14864c85ce3dbb05c7f87
+  - enabled: 1
+    path: Assets/scene/angklung/kuis-a1.unity
+    guid: a4b4b609f33aede47816b41a4980c6ea
+  - enabled: 1
+    path: Assets/scene/angklung/kuis-a2.unity
+    guid: 33278bf65eb7ba542b8bd1f7003c2907
+  - enabled: 1
+    path: Assets/scene/angklung/kuis-a3.unity
+    guid: 5cf831beb8c41da4a86eb6484af95375
+  - enabled: 1
+    path: Assets/scene/angklung/menuangklung.unity
+    guid: 5826bdbf4a40fdd409e437f643e9ed5c
+  - enabled: 1
+    path: Assets/scene/angklung/menuritmeangklung.unity
+    guid: 2364f5925da66b3409909d9fb80c105d
+  - enabled: 1
+    path: Assets/scene/angklung/pilihsimang.unity
+    guid: c450968c5f072034eafcdacee5edf6aa
+  - enabled: 1
+    path: Assets/scene/angklung/pilihsimangsatuan.unity
+    guid: 6009f2c1677eddf4cadb2e46ea031781
+  - enabled: 1
+    path: Assets/scene/angklung/ritmeangklung.unity
+    guid: 787e929e827d2a94790d13ca891c2e5c
+  - enabled: 1
+    path: Assets/scene/angklung/ritmeangklunggoyang.unity
+    guid: 10555bf1d50548940b71650804fea997
+  - enabled: 1
+    path: Assets/scene/angklung/satuan2.unity
+    guid: c0ad6660550afba439c4d6373a1771cb
+  - enabled: 1
+    path: Assets/scene/angklung/satuan3.unity
+    guid: 123ee5c2ee8fe8045860ca897ac4fd20
+  - enabled: 1
+    path: Assets/scene/angklung/satuan4.unity
+    guid: f3561c65345db4845b67fe08ee17aa76
+  - enabled: 1
+    path: Assets/scene/angklung/satuan5.unity
+    guid: 5500d918626a3da43b012b2e8f5ef823
+  - enabled: 1
+    path: Assets/scene/angklung/satuan6.unity
+    guid: 76b9de960b7a43249b3f59427c30f9e7
+  - enabled: 1
+    path: Assets/scene/angklung/satuan7.unity
+    guid: 47f40734609fe044187b0bff10c7209a
+  - enabled: 1
+    path: Assets/scene/angklung/satuan8.unity
+    guid: 7b09ffbe3c61d9b4b897434f024b076a
+  - enabled: 1
+    path: Assets/scene/angklung/simulasiangklung2.unity
+    guid: 84b00629a6edfc649bdbd1a017e60388
